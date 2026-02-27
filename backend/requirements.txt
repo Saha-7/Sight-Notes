@@ -1,0 +1,2 @@
+vision-agents[getstream,huggingface,deepgram]
+python-dotenv
